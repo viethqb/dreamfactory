@@ -68,6 +68,7 @@
     "dreamfactory/df-sqldb": "~1.2.0",
     "dreamfactory/df-system": "~0.6.2",
     "dreamfactory/df-user": "~0.17.0",
+    "dreamfactory/df-trino": "~0.1.1",
     "laravel/framework": "^11.15",
     "laravel/helpers": "^1.7",
     "laravel/tinker": "^2.9",

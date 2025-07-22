@@ -6,7 +6,7 @@ return [
 
     'version' => '7.1.1',
 
-    'license_key' => env('DF_LICENSE_KEY', false),
+    'license_key' => env('DF_LICENSE_KEY', true),
 
     'cipher' => env('APP_CIPHER', 'AES-256-CBC'),
 
